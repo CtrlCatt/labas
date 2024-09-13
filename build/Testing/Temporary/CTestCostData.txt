@@ -1,0 +1,12 @@
+HelloTest.BasicAssertions 9 0.00548683
+sumtest.BasicAssertions 2 0.0060806
+DaysFunctionTest.BasicAssertions 7 0.0140478
+Tuesday.Test 2 0.00523325
+Test.Monday 4 0.00557728
+Test.Tuesday 4 0.00527992
+Test.Wednesday 3 0.00575567
+Test.Thursday 3 0.00533897
+Test.Friday 3 0.00556503
+Test.Saturday 3 0.00594563
+Test.Sunday 3 0.00535293
+---
